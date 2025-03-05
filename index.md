@@ -11,3 +11,5 @@
 ###### This is the sixth header
 
 Showing the differences in the header sizes
+
+![Image of Muay Thai fighter](https://cdn.khaolakexplorer.com/wp-content/uploads/2015/11/muay-thai-fighter-263x300.jpg)

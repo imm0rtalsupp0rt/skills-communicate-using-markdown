@@ -15,3 +15,8 @@
 ```PowerShell
 Write-Host 'Hello, world!'
 ```
+
+- [x] Finished the header activity
+- [x] Finished the image activity
+- [x] Finished the code block activity
+- [ ] Working on task list activity
